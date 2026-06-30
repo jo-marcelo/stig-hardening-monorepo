@@ -2,7 +2,7 @@
 .SYNOPSIS
 This PowerShell script implements the DISA STIG configuration for WN11-AC-000005.
 .NOTES
-Author : Win11 STIG Navigator
+Author : Joao Miranda
 Date Created : 2026-06-30
 Version : 1.1
 STIG-ID : WN11-AC-000005
